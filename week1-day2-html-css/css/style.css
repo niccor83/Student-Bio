@@ -1,0 +1,43 @@
+body{
+    background-color:beige;
+    margin: auto;
+}
+
+h1  {
+    background-color: black;
+    color: white;
+    padding: 50px 0px;
+    text-align: center;
+    margin: 0%;
+}
+
+h2  {
+    padding: 0px 20px;
+    margin: 10px 0px;
+}
+.container{
+    margin: 0 auto;
+    width: 1024px;
+}
+#bioPic {
+    width: 200px;
+    height:200px;
+    padding: 10px 20px;
+    float: left;
+}
+#mainBio {
+    float: left;
+    width: 70%;
+    font-size: 18px;
+    
+}
+
+#contactInfo{
+    float: left;
+    font-size: 18px;
+}
+
+
+a   {
+    color:rgb(245, 11, 11);
+}
